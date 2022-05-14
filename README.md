@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm the co-founder & CTO of [Column Tax](https://github.com/column-tax). Previously I worked at [Waymo](https://github.com/waymo-research), [Pioneer](https://github.com/pioneerdotapp), [Google](https://github.com/google) / [YouTube](https://github.com/youtube), and [Udacity](https://github.com/udacity).
+
+We're working on some really interesting software (think turning 75k-pages of law into code). If you're a programmer interested in this type of work, I'd love to hear from you.
+
 <!--
 **michaelrbock/michaelrbock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
